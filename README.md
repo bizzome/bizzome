@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bizzomateus
-- 👀 I’m interested in software enginee
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on ONG projects
 
