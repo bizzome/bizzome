@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ONG projects
 
 
-> Take a look at [my projects](https://github.com/bizzome?tab=repositories) and feel free to contribute with issues or pull requests.
+> Take a look at [my projects](https://github.com/bizzome?tab=repositories) and feel free to contribute with issues or make pull requests.
 
 <picture>
   <source
