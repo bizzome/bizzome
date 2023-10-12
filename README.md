@@ -1,7 +1,7 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is bizzome
+Hello 👋 this is bizzome
 ===============================================================================================================================
 
-Web developer and designer
+### Web developer and designer
 --------------------------
 
 I've been learning to code for 8 years, after switching careers. I started with HTML and CSS, learned some Javascript but have really found my passion for backend development making Python and Nodejs apps.
