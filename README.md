@@ -11,7 +11,7 @@ I've been constantly learning to code for the last 8 years, after switching care
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [my page](https://bizzome.github.io/)
 *   ✉️  For job proposals you can mail me [here](mailto:bizzome@proton.me)
-*   🌱  I’m currently taking Harvard's [CS50 course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+*   🌱  I’m currently taking Harvard's [CS50 course](https://pll.harvard.edu/course/cs50-introduction-computer-science) and [Fullcycle course](https://fullcycle.com.br/)
 *   🧠  I'm exploring Go as a new programming language, Nextjs and Nestjs frameworks
 *   💞️  Collaborating on ONG Projects
 
