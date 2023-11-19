@@ -15,7 +15,11 @@ I've been constantly learning to code for the last 8 years, after switching care
 *   🧠  I'm exploring Go as a new programming language, Nextjs and Nestjs frameworks
 *   💞️  Collaborating on ONG Projects
 
+
+> [!TIP]
 > Take a look at [my projects](https://github.com/bizzome?tab=repositories) and feel free to contribute with issues or make pull requests.
+> 
+> If you are learning about GIT, I have [this repo](https://github.com/bizzome/github-course) for git references with resumes and good tips!
 
 ### Skills 
 <p align="left">
