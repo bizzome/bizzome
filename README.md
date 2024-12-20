@@ -1,10 +1,10 @@
 Hello 👋 this is bizzome
 ===============================================================================================================================
 
-### Web developer and designer
+### Web developer
 --------------------------
 
-I've been constantly learning to code for the last 8 years, after switching careers. I started with HTML and CSS, learned some Javascript and Nodejs but have really found my passion for backend development making Python apps.
+I've been constantly learning to code for the last 8 years, after switching careers from graphic design. Started my studies with HTML and CSS, learned some Javascript and Nodejs but have really found my passion for backend development making Python apps.
 
 "Creating stunning applications to tackle real-world issues."
 
