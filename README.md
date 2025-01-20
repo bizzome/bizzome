@@ -11,7 +11,7 @@ I've been constantly learning to code for the last 8 years, after switching care
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [my page](https://bizzome.github.io/)
 *   ✉️  For job proposals you can mail me [here](mailto:bizzome@proton.me)
-*   🌱  I’m currently taking M.Sc. @FEEC Unicamp [Computer Engineering course](https://www.fee.unicamp.br/) and [Fullcycle course](https://fullcycle.com.br/)
+*   🌱  I’m currently taking an M.Sc. course in Computer Engineering at [FEEC Unicamp](https://www.fee.unicamp.br/) and [Fullcycle 4.0](https://fullcycle.com.br/) course.
 *   🧠  I'm exploring Go as a new programming language and Angular framework
 *   💞️  Collaborating on ONG Projects in Piracicaba - SP
 
